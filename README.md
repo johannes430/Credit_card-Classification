@@ -11,11 +11,5 @@ sur son historique financier et ses informations personnelles.
 
 L'algorithme utilisé pour la classification est le **random forest**.
 
-
-Ce projet met en avant ma capacité à travailler avec des données 
-réelles ainsi qu'à appliquer des algorithmes d'apprentissage 
-automatique pour résoudre un problème concret.
-
-
 Les données utilisées sont accessibles via ce
 [lien](https://statso.io/credit-score-classification-case-study/).
